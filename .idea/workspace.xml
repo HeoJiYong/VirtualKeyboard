@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbe1632a-e96e-4fd4-858f-b94d8864930a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bvm7nKvTSaEkqVVr9weyYglW5l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="UiKeypad" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="keyboard2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/VirtualBox/Windows10/Windows10/Share/keyboard2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/VirtualBox/Windows10/Windows10/Share/keyboard2/UiKeypad.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qqq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="keyboard2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../hwwg" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../hwwg/qqq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="keyboard2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="keyboard2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="keyboard2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\[ PyCharm Project ]\keyboard2\Hangul.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.UiKeypad" />
+        <item itemvalue="Python.test5" />
+        <item itemvalue="Python.qqq" />
+        <item itemvalue="Python.string" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="192" key="#UiKeyboard" timestamp="1589520880211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="192" key="#UiKeyboard/0.0.1920.1040@0.0.1920.1040" timestamp="1589520880211" />
+    <state x="289" y="274" key="FileChooserDialogImpl" timestamp="1590109526520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="289" y="274" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590109526520" />
+    <state width="456" height="57" key="GridCell.Tab.0.bottom" timestamp="1592481521058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1059" height="231" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1590130892617" />
+    <state width="1899" height="231" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590136148881" />
+    <state width="456" height="57" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592481521058" />
+    <state width="456" height="57" key="GridCell.Tab.0.center" timestamp="1592481521057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1059" height="231" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1590130892617" />
+    <state width="1899" height="231" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590136148881" />
+    <state width="456" height="57" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592481521057" />
+    <state width="456" height="57" key="GridCell.Tab.0.left" timestamp="1592481521057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1059" height="231" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1590130892617" />
+    <state width="1899" height="231" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590136148881" />
+    <state width="456" height="57" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592481521057" />
+    <state width="456" height="57" key="GridCell.Tab.0.right" timestamp="1592481521057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1059" height="231" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1080.1880@0.0.1080.1880" timestamp="1590130892617" />
+    <state width="1899" height="231" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1590136148881" />
+    <state width="456" height="57" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592481521057" />
+    <state width="1230" height="117" key="GridCell.Tab.1.bottom" timestamp="1592452262823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1230" height="117" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592452262823" />
+    <state width="1230" height="117" key="GridCell.Tab.1.center" timestamp="1592452262823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1230" height="117" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592452262823" />
+    <state width="1230" height="117" key="GridCell.Tab.1.left" timestamp="1592452262823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1230" height="117" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592452262823" />
+    <state width="1230" height="117" key="GridCell.Tab.1.right" timestamp="1592452262823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1230" height="117" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592452262823" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1589520913733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589520913733" />
+    <state x="863" y="0" width="1064" height="1047" key="dock-window-1" timestamp="1592476186720">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="863" y="0" width="1064" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1592476186720" />
+    <state x="930" y="0" width="997" height="1047" key="dock-window-2" timestamp="1592479638874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="930" y="0" width="997" height="1047" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1592479638874" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1589793519618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589793519618" />
+    <state x="295" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1589619473975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="295" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589619473975" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/VirtualBox/Windows10/Windows10/Share/keyboard2/UiKeypad.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Hangul.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Hangul.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Hangul.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Hangul.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Hangul.py</url>
+          <line>147</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Hangul.py</url>
+          <line>113</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Hangul.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Hangul.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/VirtualBox/Windows10/Windows10/Share/keyboard2/UiKeypad.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/VirtualBox/Windows10/Windows10/Share/keyboard2/UiKeypad.py</url>
+          <line>137</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://E:/VirtualBox/Windows10/Windows10/Share/keyboard2/UiKeypad.py</url>
+          <line>147</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
